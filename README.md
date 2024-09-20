@@ -108,3 +108,9 @@ vbc /out:.\Program.exe .\Program.cs
 ## Step 1 : Créer une première application console [ VB.NET | C++ | C | C\# ]
 
 - Une application console qui affiche *Hello World!* est un bon point de départ pour comprendre comment ça fonctionne sans se soucier de l'interface graphique.
+
+## Step 2 : Tableau taile fixe en application console [ VB.NET | C++ | C | C\# ]
+
+- Une application console qui va créer un tableau d'entier de taille fixe à partir d'input de l'utilisateur.
+
+- BON !!! C++ s'améliore avec le temps !!! Il n'est plus possible de créer un tableau à partir d'un entier non-constant. (C'est pas plus mal...)
